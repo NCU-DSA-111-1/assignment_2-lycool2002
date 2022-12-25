@@ -7,6 +7,7 @@ start new game
 ```bash
 ./main.o -n <filename>
 ```
+load game data
 ```bash
 ./main.o -l <filename>
 ```
