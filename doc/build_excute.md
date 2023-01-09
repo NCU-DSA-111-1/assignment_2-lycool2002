@@ -14,7 +14,8 @@ load game data
 play
 enter x and y coordinate
 y first
-if you want to move the chessman on(1,1)
+if you want to move the chessman on(1,1), if you want to regret neter 0 in x axis or y axis
+
 enter
 ```
 1 1
